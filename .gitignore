@@ -1,7 +1,10 @@
-*.swp
+*
 
-digits
-lonely
-staircase
-utopia
-sort
+!.gitignore
+!LICENSE
+!Makefile
+!README.md
+
+!*.c
+!*.cc
+!*.ml
